@@ -1,0 +1,74 @@
+{
+  "schema_version": "1.0",
+  "brand_id": "kamalesh",
+  "name": "Kamalesh",
+  "industry": "Personal brand — student, frontend developer, technology and learning",
+  "status": "draft",
+  "version": "1.0.0",
+  "positioning": "Modern editorial professional identity communicating clear, practical expertise.",
+  "audience": [
+    "students",
+    "developers",
+    "technology communities",
+    "professional network"
+  ],
+  "personality": [
+    "professional",
+    "warm",
+    "clear",
+    "expert",
+    "modern"
+  ],
+  "voice": {
+    "tone": "clear, warm, expert, direct",
+    "avoid": [
+      "hype",
+      "unsupported claims",
+      "generic motivational language"
+    ]
+  },
+  "logo": {
+    "direction": "K monogram concept",
+    "status": "concept_only",
+    "approval_required": true
+  },
+  "colors": {
+    "ink_navy": "#14263D",
+    "warm_white": "#F7F5EF",
+    "teal": "#168C86",
+    "amber": "#D99A32"
+  },
+  "typography": {
+    "headings": {
+      "direction": "editorial serif",
+      "exact_font": "to_be_approved"
+    },
+    "body": {
+      "font": "Inter"
+    }
+  },
+  "graphic_language": [
+    "editorial grids",
+    "restrained accents",
+    "clear whitespace",
+    "structured layouts"
+  ],
+  "applications": [
+    "LinkedIn",
+    "portfolio",
+    "presentations",
+    "social graphics",
+    "web branding"
+  ],
+  "accessibility": {
+    "check_contrast": true,
+    "avoid_color_only_information": true
+  },
+  "assumptions": [
+    "The personal brand is intended for technology, learning, projects, and professional networking.",
+    "The K monogram is a direction, not an approved final logo.",
+    "The exact editorial serif typeface remains to be selected."
+  ],
+  "approvals": [],
+  "change_summary": "Initial draft created from the user's stated preferences."
+}

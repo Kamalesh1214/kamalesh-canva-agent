@@ -1,0 +1,18 @@
+{
+  "name": "kamalesh-canva-agent",
+  "displayName": "Kamalesh Canva Agent",
+  "description": "A detail-oriented creative assistant for Canva, specializing in presentations, brand systems, LinkedIn content, carousels, and campaign workflows.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Kamalesh"
+  },
+  "license": "MIT",
+  "keywords": [
+    "canva",
+    "design",
+    "presentations",
+    "branding",
+    "linkedin",
+    "mcp"
+  ]
+}
