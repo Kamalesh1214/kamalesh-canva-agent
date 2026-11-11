@@ -42,7 +42,7 @@ Follow `desktop/CLAUDE_DESKTOP_SETUP.md`. Use `desktop/CLAUDE_DESKTOP_PROJECT_IN
 
 The project references Canva's hosted remote MCP endpoint:
 
-`https://mcp.canva.com/mcp`
+`https://api.canva.com/connect/v1/mcp`
 
 Canva MCP capabilities and plan restrictions can change. The agent must inspect live tools before acting. Brand-template and resize operations may be plan-gated; do not assume every Canva account has every capability.
 
