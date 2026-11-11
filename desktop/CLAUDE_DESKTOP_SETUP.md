@@ -12,6 +12,6 @@ For Claude Desktop:
 5. Use the slash-style workflows listed in `COMMANDS.md` as natural-language prompts; Claude Desktop does not automatically install Claude Code plugin slash commands.
 
 Canva MCP endpoint shown in this project's Claude Code configuration:
-`https://mcp.canva.com/mcp`
+`https://api.canva.com/connect/v1/mcp`
 
 The remote connector's authentication and tool availability are controlled by Canva and Claude. Do not paste access tokens into this repository.
